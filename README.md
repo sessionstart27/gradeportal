@@ -1,2 +1,2 @@
 # gradeportal
-this is a grade portal for the IIST.
+A Thesis Project of BSCS 4.
